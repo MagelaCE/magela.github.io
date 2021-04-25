@@ -593,16 +593,16 @@
                     ],
                     "entries": [
                         {
-                            "name": "Skills",
+                            "name": "Perícias",
                             "entries": [
-                                "You gain proficiency in one skill of your choice."
+                                "Você ganha proficiência em uma perícia à sua escolha."
                             ],
                             "type": "entries"
                         },
                         {
-                            "name": "Feat",
+                            "name": "Talento",
                             "entries": [
-                                "You gain one {@5etools feat|feats.html} of your choice."
+                                "Você ganha uma {@5etools talento|feats.html} à sua escolha."
                             ],
                             "type": "entries"
                         }
