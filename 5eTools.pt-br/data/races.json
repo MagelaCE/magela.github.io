@@ -361,7 +361,7 @@
                     ],
                     "entries": [
                         {
-                            "name": "Elf Weapon Training",
+                            "name": "Treinamento Élfíco com Armas",
                             "entries": [
                                 "Você é proficiente com {@item espada longa|phb}, espada curta{@item espada curta|phb}, {@item arco curto|phb} e {@item arco longo|phb}."
                             ],
