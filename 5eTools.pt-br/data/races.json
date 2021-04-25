@@ -31,10 +31,10 @@
             ],
             "weaponProficiencies": [
                 {
-                    "Machado de Guerra|phb": true,
-                    "Machadinha|phb": true,
-                    "Martelo Leve|phb": true,
-                    "Martelo de Guerra|phb": true
+                    "machado de guerra|phb": true,
+                    "machadinha|phb": true,
+                    "martelo leve|phb": true,
+                    "martelo de guerra|phb": true
                 }
             ],
             "resist": [
@@ -90,7 +90,7 @@
                 {
                     "name": "Treinamento Anão em Combate",
                     "entries": [
-                        "Você e proficiente com {@item Machado de Guerra|phb}, {@item Machadinha|phb}, {@item Martelo Leve|phb} e {@item Martelo de Guerra|phb}."
+                        "Você e proficiente com {@item machado de guerra|phb|machados de guerra}, {@item machadinha|phb|machadinhas}, {@item Martelo Leve|phb|martelos leves} e {@item Martelo de Guerra|phb|martelos de guerra}."
                     ],
                     "type": "entries"
                 },
@@ -290,10 +290,10 @@
                     },
                     "weaponProficiencies": [
                         {
-                            "Espada Longa|phb": true,
-                            "Espada Curta|phb": true,
-                            "Arco Curto|phb": true,
-                            "Arco Longo|phb": true
+                            "espada longa|phb": true,
+                            "espada curta|phb": true,
+                            "arco curto|phb": true,
+                            "arco longo|phb": true
                         }
                     ],
                     "additionalSpells": [
@@ -353,10 +353,10 @@
                     },
                     "weaponProficiencies": [
                         {
-                            "Espada Longa|phb": true,
-                            "Espada Curta|phb": true,
-                            "Arco Curto|phb": true,
-                            "Arco Longo|phb": true
+                            "espada longa|phb": true,
+                            "espada curta|phb": true,
+                            "arco curto|phb": true,
+                            "arco longo|phb": true
                         }
                     ],
                     "entries": [
@@ -408,9 +408,9 @@
                     ],
                     "weaponProficiencies": [
                         {
-                            "Rapieira|phb": true,
-                            "Espada Curta|phb": true,
-                            "Besta de Mão|phb": true
+                            "rapieira|phb": true,
+                            "espada curta|phb": true,
+                            "besta de mão|phb": true
                         }
                     ],
                     "additionalSpells": [
