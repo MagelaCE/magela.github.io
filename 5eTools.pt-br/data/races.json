@@ -53,23 +53,23 @@
                     ]
                 },
                 {
-                    "name": "Alinhamnto",
+                    "name": "Alinhamento",
                     "type": "entries",
                     "entries": [
-                        "A maior parte dos anoes é ordeira acreditando fortemente nos benefícios de uma sociedade organizada. Eles também tendem ao bem, possuindo um forte senso de honestidade e a crença de que todos merecem compartilhar os benefícios da ordem e da justiça"
+                        "A maior parte dos anões é ordeira acreditando fortemente nos benefícios de uma sociedade organizada. Eles também tendem ao bem, possuindo um forte senso de honestidade e a crença de que todos merecem compartilhar os benefícios da ordem e da justiça"
                     ]
                 },
                 {
                     "type": "entries",
                     "name": "Tamanho",
                     "entries": [
-                        "Seu tamanho é Médio. Anões crescem ate 1,5 metro e pesam em torno de 75 quilos."
+                        "Seu tamanho é Médio. Anões crescem até 1,5 metro e pesam em torno de 75 quilos."
                     ]
                 },
                 {
                     "name": "Deslocamento",
                     "entries": [
-                        "Seu deslocamento básico ao caminhar é de 7,5 metros. Seu deslocamento não é reduzido ao utilizar armaduras pesadas."
+                        "Seu deslocamento não é reduzido ao utilizar armaduras pesadas."
                     ],
                     "type": "entries"
                 },
@@ -90,7 +90,7 @@
                 {
                     "name": "Treinamento Anão em Combate",
                     "entries": [
-                        "Você e proficiente com {@item Machados de Guerra|phb}, {@item Machadinha|phb}, {@item Martelos Leve|phb} e {@item Martelo de Guerra|phb}."
+                        "Você e proficiente com {@item Machado de Guerra|phb}, {@item Machadinha|phb}, {@item Martelo Leve|phb} e {@item Martelo de Guerra|phb}."
                     ],
                     "type": "entries"
                 },
