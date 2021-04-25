@@ -238,7 +238,7 @@
                 {
                     "name": "Visão no Escuro",
                     "entries": [
-                        "Acostumado a florestas sombreadas e céus noturnos, você tem visão superior no escuro, podendo enxergar até 18 metros na meia-luz como se fosse dia e, na escuridão, como se fosse meia-luz. Na escuridão, você só con segue discernir tons de cinza."
+                        "Acostumado a florestas sombreadas e céus noturnos, você tem visão superior no escuro, podendo enxergar até 18 metros na meia-luz como se fosse dia e, na escuridão, como se fosse meia-luz. Na escuridão, você só consegue discernir tons de cinza."
                     ],
                     "type": "entries"
                 },
@@ -259,7 +259,7 @@
                 {
                     "name": "Transe",
                     "entries": [
-                        "Elfos não precisam dormir. Em vez disso, meditam profundamente, permanecendo semicons cientes 4 horas ao dia. (A expressão comum para tal meditação é \"transe\"). Enquanto medita, você pode sonhar, de certo modo; tais sonhos são, na verdade, exercícios mentais que passaram a ser quase involuntários após anos de prática. Depois de descansar dessa forma, você obtem os mesmos benefícios que um ser humano obtém após 8 horas de sono."
+                        "Elfos não precisam dormir. Em vez disso, meditam profundamente, permanecendo semiconscientes 4 horas ao dia. (A expressão comum para tal meditação é \"transe\"). Enquanto medita, você pode sonhar, de certo modo; tais sonhos são, na verdade, exercícios mentais que passaram a ser quase involuntários após anos de prática. Depois de descansar dessa forma, você obtem os mesmos benefícios que um ser humano obtém após 8 horas de sono."
                     ],
                     "type": "entries"
                 },
@@ -312,9 +312,9 @@
                     ],
                     "entries": [
                         {
-                            "name": "Treinamento Élf íco com Armas",
+                            "name": "Treinamento Élfíco com Armas",
                             "entries": [
-                                "Você é proficiente com {@item espada longa|phb}, espada curta{@item espada curta|phb}, {@item arco curto|phb} e {@item arco longo|phb}."
+                                "Você é proficiente com {@item espada longa|phb}, {@item espada curta|phb}, {@item arco curto|phb} e {@item arco longo|phb}."
                             ],
                             "type": "entries"
                         },
