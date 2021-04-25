@@ -441,7 +441,7 @@
                         {
                             "name": "Visáo no Escuro Aprimorada",
                             "entries": [
-                                "Sua visão no escuro tem alcance maior, atingindo até 36 metros"
+                                "Sua visão no escuro tem alcance maior, atingindo até 36 metros."
                             ],
                             "data": {
                                 "overwrite": "Visáo no Escuro"
@@ -451,7 +451,7 @@
                         {
                             "name": "Sensibilidade a Luz Solar",
                             "entries": [
-                                "Você possui desvantagem nas jogadas de ataque e nos testes de Sabedoria ({@skill Percepção}) ralacionados à visão quando você, o alvo do seu ataque ou quaiuuer coisa que esteja tentando perceber estiver sob luz solar direta."
+                                "Você possui desvantagem nas jogadas de ataque e nos testes de Sabedoria ({@skill Percepção}) ralacionados à visão quando você, o alvo do seu ataque ou quaiquer coisa que esteja tentando perceber estiver sob luz solar direta."
                             ],
                             "type": "entries"
                         },
@@ -465,7 +465,7 @@
                         {
                             "name": "Treinamento Drow com Armas",
                             "entries": [
-                                "Você é proficiente com rapieiras{@item rapieira|phb|rapieiras}, espadas curtas{@item espada curta|phb|espadas curtas} e {@item besta de mão|phb|bestas de mão}"
+                                "Você é proficiente com {@item rapieira|phb|rapieiras}, {@item espada curta|phb|espadas curtas} e {@item besta de mão|phb|bestas de mão}"
                             ],
                             "type": "entries"
                         }
